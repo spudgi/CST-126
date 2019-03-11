@@ -1,0 +1,16 @@
+body {
+	background: #000000;
+}
+#frm {
+	border: solid black 1px;
+	width: 20%;
+	border-radius: 5px;
+	margin: 100px auto;
+	background: white;
+	padding: 50px;
+}
+#btn {
+	color: #eee;
+	background: #48ff30;
+	margin-left: 69%;
+}
